@@ -1,1 +1,1 @@
-- This project is to polish the knowledge in stripejs with next js.
+- This project is to polish my knowledge on stripe js integrating into next js project.
